@@ -1,7 +1,9 @@
 # 🏥 Hospital Analysis Power-BI Dashboard
 
 **Industry:** Data Analytics | Healthcare | Operational Efficiency | Patient Experience Management
+
 **Tool Used:** Microsoft Excel, Microsoft Power BI, SQL
+
 **Project Type:** Power BI, Power Query, DAX, Excel
 
 ---
