@@ -50,7 +50,7 @@ Stakeholders needed:
 
 ---
 
-### 🛠️ What I Built (Features)
+## 🛠️ What I Built (Features)
 
 - Live current conditions (temperature, conditions text, location)
 - 7-day forecast strip and hourly forecast chart
